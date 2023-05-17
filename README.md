@@ -82,25 +82,22 @@ I was always astonished by how each of the restaurants are able to keep up the p
     
     5. Created a interactive and dynamic dashboard at the end using Power Bi and generated some useful insights.
 
+
+## Dashboards
+- **Excel**:
+
+![image](https://github.com/Venkatesh-Nayk/Zomato-Bangalore-Data-Analysis/assets/129421850/44865ccd-8ef1-411d-a488-92e921245ab0)
+
+- **PowerBI**:
+
+![image](https://github.com/Venkatesh-Nayk/Zomato-Bangalore-Data-Analysis/assets/129421850/0dc43f71-b0cc-4b47-bd76-d97e2f292e44)
+
 ## Conclusion
 As per our analysis, if the person wants to open a remote kitchen in Bangalore he/she should prefer opening it in Shanti Nagar or Basavanagudi, since the place is having less no of restaurant which reduces the competition and it has some of the expensive restaurants in the Banglore, hence the person can deliver food at lower price which reduces the competition even further.
 
 The second suggestion would be sell North Indian, South Indian cuisine as they are demanded the most by the customers and they can keep the price ranging from 300 - 400 Rs for Non vegetarian category and 200 - 300 Rs for vegetarian category.
 
-## Images 
-
-![image](https://user-images.githubusercontent.com/123991455/235981550-08cef644-e16d-4742-bf34-fd3622e8670d.png)
 
 
-
-![image](https://user-images.githubusercontent.com/123991455/235981643-18f4980e-4027-49bf-ac16-95cd88426a3c.png)
-
-
-
-![image](https://user-images.githubusercontent.com/123991455/235982036-567be9f4-0b1b-43bd-b346-34d6ee9c31c9.png)
-
-
-
-![image](https://user-images.githubusercontent.com/123991455/235982186-69a4c94e-d935-4a3e-9666-e875d0361417.png)
 
 
