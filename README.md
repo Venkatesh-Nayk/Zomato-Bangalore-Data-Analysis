@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/123991455/235980695-c5be9af5-2b50-4cc7-8577-b54ca7fd61b8.png)
 
 ## Aim:
-The project aims to use scraped data from Zomato to predict the optimal price and location to sell a given cuisine.
+The project aims to predict the optimal price for a given cuisine and determine the best location to sell that cuisine with the help of scraped data from Zomato.
 
 ## Content 📋
 - The Zomato dataset provides a unique opportunity to gain valuable insights into Bengaluru's vibrant restaurant scene. With over 12,000 restaurants serving diverse cuisines worldwide,
