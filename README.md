@@ -101,6 +101,16 @@ Deployed the model on HTML webpage
 
 - The second suggestion would be sell North Indian, South Indian cuisine as they are demanded the most by the customers and they can keep the price ranging from 300 - 400 Rs for Non vegetarian category and 200 - 300 Rs for vegetarian category.
 
+## Challenges Faced
+
+There are several limitations and challenges that arised during the project. Some potential challenges include:
+   
+   - Learning web scraping with different tools was challenging due to the diversity of tools, evolving website structures, anti-scraping measures, and the need for data cleaning and 
+     preprocessing.
+   - Dynamic page scrolling posed an additional challenge during the data scraping process, requiring specific techniques and tools to effectively capture and extract the desired 
+     information from web pages that load content dynamically as the user scrolls.
+   - Data quality and consistency were compromised in the scraped data from Zomato, with errors, missing values, and inconsistencies present, thereby impacting the integrity of the raw 
+     dataset.
 
 
 
