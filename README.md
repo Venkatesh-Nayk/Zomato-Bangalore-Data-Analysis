@@ -47,6 +47,7 @@ Deployed the model on HTML webpage
 
     1. Using Selenium And BeautifulSoup libraries of Python we Extracted data present on page and stored it in series and merging them to get DatFrame
     	a)MainPage Scrapper
+     
 	
 ![image](https://github.com/SaketSuhane/Recommendation_Model_Zomato/assets/123991455/bcf3804c-4734-40e8-b303-fd905eadb7c3)
 
@@ -55,6 +56,7 @@ Deployed the model on HTML webpage
 
    
     	b)Restaurants info Scrapper
+     
     
 ![image](https://github.com/SaketSuhane/Recommendation_Model_Zomato/assets/123991455/577b3980-c832-4306-8b92-a1974549808b)
 
@@ -69,6 +71,7 @@ Deployed the model on HTML webpage
     	a) Raw Data 
 	
 	Table 1 :
+ 
 ![image](https://github.com/SaketSuhane/Recommendation_Model_Zomato/assets/123991455/8a3b450c-cc24-4d73-a731-450b2a95c910)
       
       	Table 2 :
@@ -77,6 +80,7 @@ Deployed the model on HTML webpage
       a) Cleaned Table and Joined Table 
       
      Final Table :
+     
 ![image](https://github.com/SaketSuhane/Recommendation_Model_Zomato/assets/123991455/d79eb1bf-3fa4-4f29-83d5-5dc821c799e9)
 
        
