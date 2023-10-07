@@ -45,8 +45,9 @@ Deployed the model on HTML webpage
 
 ## Quick Summary
 
-    1. Using Selenium And BeautifulSoup libraries of Python we Extracted data present on page and stored it in series and merging them to get DatFrame
-    	a)MainPage Scrapper
+1.Using Selenium And BeautifulSoup libraries of Python we Extracted data present on page and stored it in series and merging them to get DatFrame
+
+a)MainPage Scrapper
      
 	
 ![image](https://github.com/SaketSuhane/Recommendation_Model_Zomato/assets/123991455/bcf3804c-4734-40e8-b303-fd905eadb7c3)
@@ -55,7 +56,7 @@ Deployed the model on HTML webpage
 ![image](https://github.com/SaketSuhane/Recommendation_Model_Zomato/assets/123991455/539d66e8-cf48-4874-a548-eddbb9e4b365)
 
    
-    	b)Restaurants info Scrapper
+b)Restaurants info Scrapper
      
     
 ![image](https://github.com/SaketSuhane/Recommendation_Model_Zomato/assets/123991455/577b3980-c832-4306-8b92-a1974549808b)
@@ -67,28 +68,29 @@ Deployed the model on HTML webpage
 ![image](https://github.com/SaketSuhane/Recommendation_Model_Zomato/assets/123991455/05620b7e-e18c-4fff-8fd4-29dfb7d3afa8)
 
  
-    2. After obtaining the DataFrame we performed some data cleansing operation using Power Querry Editor , Excel and obtained a single table.
-    	a) Raw Data 
-	
-	Table 1 :
+2. After obtaining the DataFrame we performed some data cleansing operation using Power Querry Editor , Excel and obtained a single table.
+   
+a) Raw Data 
+
+Table 1 :
  
 ![image](https://github.com/SaketSuhane/Recommendation_Model_Zomato/assets/123991455/8a3b450c-cc24-4d73-a731-450b2a95c910)
       
-      	Table 2 :
+Table 2 :
 ![image](https://github.com/SaketSuhane/Recommendation_Model_Zomato/assets/123991455/e6ed4bf2-f460-472e-b808-6d78a3a5b9d6)
 
-      a) Cleaned Table and Joined Table 
-      
-     Final Table :
+a) Cleaned Table and Joined Table 
+
+Final Table :
      
 ![image](https://github.com/SaketSuhane/Recommendation_Model_Zomato/assets/123991455/d79eb1bf-3fa4-4f29-83d5-5dc821c799e9)
 
-       
-    3. After joining the tables, we imported the dataset into Power BI in order to visualize the data.
-    
-    4. In Power Bi, we made some useful KPI's and some user friendly charts.
-    
-    5. Created a interactive and dynamic dashboard at the end using Power Bi and generated some useful insights.
+
+3. After joining the tables, we imported the dataset into Power BI in order to visualize the data.
+
+4. In Power Bi, we made some useful KPI's and some user friendly charts.
+
+5. Created a interactive and dynamic dashboard at the end using Power Bi and generated some useful insights.
 
 
 ## Dashboards
